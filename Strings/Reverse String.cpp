@@ -1,6 +1,4 @@
-// Problem: Reverse String
-// Topic: Strings
-// Difficulty: Easy
+
 
 #include <iostream>
 #include <string>
