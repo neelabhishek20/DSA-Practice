@@ -35,3 +35,15 @@ public:
         return ans == n + 1 ? -1 : ans;
     }
 };
+
+INPUT:
+nums = {2, -1, 2};
+k = 3;
+
+PREFIX SUM:
+0 2 1 3
+
+Shortest subarray with sum ≥ 3:[2, -1, 2]
+
+LENGTH: 3
+    
