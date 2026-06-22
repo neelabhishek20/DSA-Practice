@@ -1,3 +1,5 @@
+
+
 // LeetCode 1438: Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
 
 class Solution {
@@ -43,3 +45,16 @@ public:
         return ans;
     }
 };
+INPUT:nums = {8, 2, 4, 7};
+limit = 4;
+
+
+VALID SUBARRAYS:
+[8]
+[2]
+[4]
+[7]
+[2,4]
+
+
+  LONGEST LENGTH:2
